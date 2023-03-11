@@ -63,17 +63,9 @@ html.theme-light::before {
 
 
 }
-.panels-3wFtMD>.container-YkUktl .flex-2S1XBF>:not(:last-child) {
+.button-12Fmur {
   color: var(--wildberry-accent-color);
 }
-.panels-3wFtMD>.container-YkUktl .flex-2S1XBF{
-	color: var(--wildberry-accent-color);
-}
-.panels-3wFtMD>.container-YkUktl:hover .flex-2S1XBF>:not(:last-child) {
-  opacity: 1;
-  width: 32px;
-}
-
 
 /* People column */
 .theme-dark .container-1D34oG { background-color: var(--background-primary); }
