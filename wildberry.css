@@ -62,6 +62,19 @@ html.theme-light::before {
 }
 
 
+}
+.panels-3wFtMD>.container-YkUktl .flex-2S1XBF>:not(:last-child) {
+  color: var(--wildberry-accent-color);
+}
+.panels-3wFtMD>.container-YkUktl .flex-2S1XBF{
+	color: var(--wildberry-accent-color);
+}
+.panels-3wFtMD>.container-YkUktl:hover .flex-2S1XBF>:not(:last-child) {
+  opacity: 1;
+  width: 32px;
+}
+
+
 /* People column */
 .theme-dark .container-1D34oG { background-color: var(--background-primary); }
 
@@ -396,31 +409,4 @@ color:#e7e4eb;
 .hljs-keyword
 {
   font-weight:bold;
-}
-.button-12Fmur.enabled-9OeuTA {
-	color: var(--wildberry-accent-color);
-}
-
-.button-12Fmur.enabled-9OeuTA:hover {
-	color: var(--wildberry-tertiary);
-	background-color: var(--wildberry-accent-color);
-}
-
-.button-12Fmur,
-.button-12Fmur.enabled-9OeuTA:hover
-{
-	color: var(--wildberry-accent-color);
-}
-.container-YkUktl>.flex-2S1XBF>button[aria-checked='true'] path{
-    fill: red;
-}
-.panels-3wFtMD>.container-YkUktl .flex-2S1XBF>:not(:last-child) {
-  color: var(--wildberry-accent-color);
-}
-.panels-3wFtMD>.container-YkUktl .flex-2S1XBF{
-	color: var(--wildberry-accent-color);
-}
-.panels-3wFtMD>.container-YkUktl:hover .flex-2S1XBF>:not(:last-child) {
-  opacity: 1;
-  width: 32px;
 }
