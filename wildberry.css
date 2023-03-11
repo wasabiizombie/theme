@@ -414,3 +414,13 @@ color:#e7e4eb;
 .container-YkUktl>.flex-2S1XBF>button[aria-checked='true'] path{
     fill: red;
 }
+.panels-3wFtMD>.container-YkUktl .flex-2S1XBF>:not(:last-child) {
+  color: var(--wildberry-accent-color);
+}
+.panels-3wFtMD>.container-YkUktl .flex-2S1XBF{
+	color: var(--wildberry-accent-color);
+}
+.panels-3wFtMD>.container-YkUktl:hover .flex-2S1XBF>:not(:last-child) {
+  opacity: 1;
+  width: 32px;
+}
